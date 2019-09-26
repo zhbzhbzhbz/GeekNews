@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-经过修改，Android 10可用
+**经过修改，Android 10可用**
 
 GeekNews, A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
 
